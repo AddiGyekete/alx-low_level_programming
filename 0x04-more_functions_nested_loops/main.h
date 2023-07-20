@@ -12,5 +12,7 @@ int _isupper(int c);
 int main(void);
 int _isdigit(int c);
 int mul(int a, int b);
+void print_numbers(void);
+int main(void);
 
 #endif /* MAIN_H */
