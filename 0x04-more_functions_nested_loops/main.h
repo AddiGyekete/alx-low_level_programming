@@ -9,5 +9,7 @@ void print_remaining_days(int month, int day, int year);
 int convert_day(int month, int day);
 int main(void);
 int _isupper(int c);
+int main(void);
+int _isdigit(int c);
 
 #endif /* MAIN_H */
